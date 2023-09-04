@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hola! 👋
+I'm Tomas! Current 2nd year Computer Science major at California State University, Fullerton.
 
-<!--
-**tomasohCHOM/tomasohCHOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience with: C/C++, Python, Typescript/JavaScript, React.js, Svelte/SvelteKit, more...
 
-Here are some ideas to get you started:
+Some projects I have worked on / currently working on:
+- [Clubannounce](https://github.com/acmcsufoss/clubannounce)
+- [Devdle](https://github.com/tomasohCHOM/Devdle)
+- [MatriXpert](https://github.com/tomasohCHOM/MatriXpert)
+- [Canvas_FindPeople](https://github.com/tomasohCHOM/CanvasFindPeople)
+- [FilterConverter](https://github.com/tomasohCHOM/FilterConverter)
+- [HouseKit](https://github.com/tomasohCHOM/HouseKit)
+- [MineSweeper Clone](https://github.com/tomasohCHOM/MineSweeper)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Tomas. Current 2nd year Computer Science major at California State University, Fullerton. 
+You can contact me through [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu)
+
+Thanks for stopping by :)
