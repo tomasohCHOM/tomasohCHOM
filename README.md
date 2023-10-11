@@ -7,7 +7,7 @@ Some projects I have worked on / currently working on:
 - [Clubannounce](https://github.com/acmcsufoss/clubannounce)
 - [Devdle](https://github.com/tomasohCHOM/Devdle)
 - [MatriXpert](https://github.com/tomasohCHOM/MatriXpert)
-- [Canvas_FindPeople](https://github.com/tomasohCHOM/CanvasFindPeople)
+- [CanvasFindPeople](https://github.com/tomasohCHOM/CanvasFindPeople)
 - [FilterConverter](https://github.com/tomasohCHOM/FilterConverter)
 - [HouseKit](https://github.com/tomasohCHOM/HouseKit)
 - [MineSweeper Clone](https://github.com/tomasohCHOM/MineSweeper)
