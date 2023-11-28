@@ -13,6 +13,8 @@ Some projects I have worked on / currently working on:
 - [HouseKit](https://github.com/tomasohCHOM/HouseKit) - Furniture website prototype created with **HTML/CSS/JavaScript**.
 - [MineSweeper Clone](https://github.com/tomasohCHOM/MineSweeper) - Created with **HTML/CSS/JavaScript**; contains support for difficulty levels and practice mode.
 
-You can contact me through [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu)
+Email: [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu) - Discord: chomacito
+
+![tomasohCHOM's Stats](https://github-readme-stats.vercel.app/api?username=tomasohCHOM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Thanks for stopping by :)
