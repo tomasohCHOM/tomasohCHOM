@@ -15,6 +15,7 @@ Some projects I have worked on / currently working on:
 
 Email: [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu) - Discord: chomacito
 
-![tomasohCHOM's Stats](https://github-readme-stats.vercel.app/api?username=tomasohCHOM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![tomasohCHOM's Stats](https://github-readme-stats.vercel.app/api?username=tomasohCHOM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![tomasohCHOM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasohCHOM&theme=tokyonight&hide_border=true)
 
 Thanks for stopping by :)
