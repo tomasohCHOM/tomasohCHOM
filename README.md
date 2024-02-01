@@ -2,7 +2,7 @@
 
 Current 2nd year Computer Science major at California State University, Fullerton.
 
-**Experience** with: C/C++, Python, Typescript/JavaScript, Deno, React.js, Svelte/SvelteKit, more...
+**Experience** with: C/C++, Python, Typescript/JavaScript, Deno, React.js, Svelte/SvelteKit, and more...
 
 Proud member of the **Association of Computer Machinery** at CSUF's [**Open Source Software Team**](https://github.com/acmcsufoss).
 
@@ -11,11 +11,11 @@ Proud member of the **Association of Computer Machinery** at CSUF's [**Open Sour
 - [QuizZard](https://github.com/tomasohCHOM/QuizZard) [WIP] - **Full-stack** quiz application for interactive learning
 - [Devdle](https://github.com/tomasohCHOM/Devdle) - A Wordle-style app encompassing **software development** concepts and tools
 - [aoc-dailies](https://github.com/tomasohCHOM/aoc-dailies) - Send notifications of **Advent of Code** dailies via Discord embeds
-- [MatriXpert](https://github.com/tomasohCHOM/MatriXpert) - A **Matrix** caclulator website; can calculate Matrix arithmetic, transpose, determinant, REF/RREF
-- [fourJSFrameworksOneApp](https://github.com/tomasohCHOM/fourJSFrameworksOneApp) - The same Single-Page Application (SPA) created in **React**, **Angular**, **Vue**, and **Svelte**.
-- [CanvasFindPeople](https://github.com/tomasohCHOM/CanvasFindPeople) - Discord bot that interacts with the **CanvasAPI** to search users through courses.
+- [MatriXpert](https://github.com/tomasohCHOM/MatriXpert) - A **Matrix** calculator website; can calculate Matrix arithmetic, transpose, determinant, REF/RREF
+- [fourJSFrameworksOneApp](https://github.com/tomasohCHOM/fourJSFrameworksOneApp) - The same Single-Page Application (SPA) created in **React**, **Angular**, **Vue**, and **Svelte**
+- [CanvasFindPeople](https://github.com/tomasohCHOM/CanvasFindPeople) - Discord bot that interacts with the **CanvasAPI** to search users through courses
 - [FilterConverter](https://github.com/tomasohCHOM/FilterConverter) - TypeScript Tool to convert **RGB/HEX** values to the **CSS Filter** property (image color converter)
-- [HouseKit](https://github.com/tomasohCHOM/HouseKit) - Furniture website prototype created with **HTML/CSS/JavaScript**.
+- [HouseKit](https://github.com/tomasohCHOM/HouseKit) - Furniture website prototype created with **HTML/CSS/JavaScript**
 - [MineSweeper Clone](https://github.com/tomasohCHOM/MineSweeper) - Created with **HTML/CSS/JavaScript**; contains support for difficulty levels and practice mode
 
 ## Github Stats
