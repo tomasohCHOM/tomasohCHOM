@@ -7,6 +7,7 @@ Current 2nd year Computer Science major at California State University, Fullerto
 Proud member of the **Association of Computer Machinery** at CSUF's [**Open Source Software Team**](https://github.com/acmcsufoss).
 
 ### Some projects I have worked on / currently working on:
+- [Fullyhacks](https://github.com/acmcsufoss/fullyhacks) - Website for the **largest hackathon** at CSUF!
 - [Clubannounce](https://github.com/acmcsufoss/clubannounce) [WIP] - Web platform for drafting and creating announcements and events within **ACM at CSUF**
 - [QuizZard](https://github.com/tomasohCHOM/QuizZard) [WIP] - **Full-stack** quiz application for interactive learning
 - [Devdle](https://github.com/tomasohCHOM/Devdle) - A Wordle-style app encompassing **software development** concepts and tools
