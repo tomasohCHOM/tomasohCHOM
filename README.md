@@ -4,7 +4,7 @@ Current 2nd year Computer Science major at California State University, Fullerto
 
 **Experience** with: C/C++, Python, Typescript/JavaScript, Deno, React.js, Svelte/SvelteKit, and more...
 
-Proud member of the **Association of Computer Machinery** at CSUF's [**Open Source Software Team**](https://github.com/acmcsufoss).
+Proud member of the **Association of Computing Machinery** at CSUF's [**Open Source Software Team**](https://github.com/acmcsufoss).
 
 ### Some projects I have worked on / currently working on:
 - [Fullyhacks](https://github.com/acmcsufoss/fullyhacks) - Website for the **largest hackathon** at CSUF!
