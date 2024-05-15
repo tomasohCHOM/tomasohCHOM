@@ -4,12 +4,12 @@ Current 2nd year Computer Science major at California State University, Fullerto
 
 **Experience** with: C/C++, Python, Typescript/JavaScript, Deno, React.js, Svelte/SvelteKit, and more...
 
-Proud member of the **Association of Computing Machinery** at CSUF's [**Open Source Software Team**](https://github.com/acmcsufoss).
+I am the **Association of Computing Machinery** at CSUF's [**Open Source Software Team Lead**](https://github.com/acmcsufoss).
 
 ### Some projects I have worked on / currently working on:
 - [Fullyhacks](https://github.com/acmcsufoss/fullyhacks) - Website for the **largest hackathon** at CSUF!
 - [Clubannounce](https://github.com/acmcsufoss/clubannounce) [WIP] - Web platform for drafting and creating announcements and events within **ACM at CSUF**
-- [QuizZard](https://github.com/tomasohCHOM/QuizZard) [WIP] - **Full-stack** quiz application for interactive learning
+- [QuizZard](https://github.com/tomasohCHOM/QuizZard) - **Full-stack** quiz application for interactive learning
 - [Devdle](https://github.com/tomasohCHOM/Devdle) - A Wordle-style app encompassing **software development** concepts and tools
 - [aoc-dailies](https://github.com/tomasohCHOM/aoc-dailies) - Send notifications of **Advent of Code** dailies via Discord embeds
 - [MatriXpert](https://github.com/tomasohCHOM/MatriXpert) - A **Matrix** calculator website; can calculate Matrix arithmetic, transpose, determinant, REF/RREF
@@ -26,6 +26,10 @@ Proud member of the **Association of Computing Machinery** at CSUF's [**Open Sou
 
 ## Contact
 
-Email: [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu) - Discord: chomacito
+- Email: [tomasoh@csu.fullerton.edu](mailto:tomasohe@csu.fullerton.edu)
+- [Personal portfolio](https://chom.vercel.app/)
+- Discord: chomacito
 
-### Brought to you with 💌 by Tomas
+---
+
+### Brought to you with 🔥 by Tomas
